@@ -75,3 +75,4 @@ Place logo.png and landing.png in the same directory as the index.html file.
 
 Open index.html in any modern web browser to view the landing page.
 
+## Live Link https://zerodhalandingpageflex.netlify.app/
